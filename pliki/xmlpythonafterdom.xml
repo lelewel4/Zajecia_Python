@@ -1,0 +1,20 @@
+<?xml version="1.0" ?><fruits>
+	<fruit id="1">
+		<name>Python_lab</name>
+		<color>Zolty</color>
+		<shape>Podluzny</shape>
+		<taste>Slodki</taste>
+	</fruit>
+	<fruit id="2">
+		<name>Jablko</name>
+		<color>Nowy_kolor</color>
+		<shape>Okragly</shape>
+		<taste>Kwasny</taste>
+	</fruit>
+	<fruit id="999">
+		<name>Sliwka</name>
+		<color>Fioletowy</color>
+		<shape>Okragly</shape>
+		<taste>Smaczny</taste>
+	</fruit>
+</fruits>

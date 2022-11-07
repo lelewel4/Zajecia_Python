@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<fruits>
+	<fruit id="1">
+		<name>Banan</name>
+		<color>Zolty</color>
+		<shape>Podluzny</shape>
+		<taste>Slodki</taste>
+	</fruit>
+	<fruit id="2">
+		<name>Jablko</name>
+		<color>Czerowny</color>
+		<shape>Okragly</shape>
+		<taste>Kwasny</taste>
+	</fruit>
+	<fruit id="3">
+		<name>Sliwka</name>
+		<color>Fioletowy</color>
+		<shape>Okragly</shape>
+		<taste>Smaczny</taste>
+	</fruit>
+</fruits>
