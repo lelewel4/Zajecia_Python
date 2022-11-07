@@ -1,5 +1,5 @@
-"functions" - folder z wykorzytywanymi algorytmami,funkcjami itp.
-"testbenches" - folder z unitestami stworzonymi w celu weryfikacji poprawności działania
-"pliki" - fider, w którym znajdująwykosztywane w zadaniach zasoby
+"functions" - folder z wykorzystanymi algorytmami,funkcjami itp.
+"testbenches" - folder z unitestami stworzonymi w celu weryfikacji poprawności działania kodu
+"pliki" - folder, w którym znajdują się wykorzystane w zadaniach zasoby (.txt, .json, .xml)
 
 Niektóre zadania posiadają weryfikacje w pliku z algorytmem.
