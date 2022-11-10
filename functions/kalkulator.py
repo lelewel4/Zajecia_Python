@@ -8,7 +8,7 @@ def start():
     img2 = float(input("Podaj czesc urojona drugiej liczby:\t"))
     return real1, real2, znak, img1, img2
 
-def check(command:str):
+def check(command:str, complex1, complex2):
     if(command == '+'):
         add = complex1 + complex2
         print(str(add.real), str(add.img)+"j", "\n")
@@ -28,7 +28,7 @@ if __name__ == '__main__':
     dane = start()
     complex1 = liczby_zespolone.Complex(int(dane[0]), int(dane[3]))
     complex2 = liczby_zespolone.Complex(int(dane[1]), int(dane[4]))
-    check(dane[2])
+    check(dane[2], complex1, complex2)
 
 
 
